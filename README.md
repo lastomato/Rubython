@@ -1,20 +1,22 @@
-= Rubython
+# Rubython
 
-== Why
+
+## Why
 
 It's kind of a little strange when came back to Python after working with Ruby for about one year. So this idea of adding corresponding methods to Python Classes came into my mind.
 
-== What
 
-RbArray
+## What
 
-RbHash (dictionary in Python)
+ * RbArray
 
-RbString
+ * RbHash (dictionary in Python)
 
-RbFixnum
+ * RbString
 
-RbBlock
+ * RbFixnum
+
+ * RbBlock
 
 (more contents will be added)
 
