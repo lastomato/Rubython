@@ -7,9 +7,13 @@ It's kind of a little strange when came back to Python after working with Ruby f
 == What
 
 RbArray
+
 RbHash (dictionary in Python)
+
 RbString
+
 RbFixnum
+
 RbBlock
 
 (more contents will be added)
